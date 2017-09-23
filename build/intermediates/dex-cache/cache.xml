@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\FIFA Manager\TrackMyLoacation\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\FIFA Manager\TrackMyLoacation\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d4e07d85879275f7176f8f80b72b08ab8d25e375\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\siddhanth\.android\build-cache\79b67c38b1c8cf1480363a988cbb2add4d24ca2a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="E:\FIFA Manager\TrackMyLoacation\app\build\intermediates\pre-dexed\debug\classes_2f810edabffd151bebbdf32b12b95a16a5c525e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\siddhanth\.android\build-cache\f72975c04cf06a904396993777513f7b517bc601\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="E:\FIFA Manager\TrackMyLoacation\app\build\intermediates\pre-dexed\debug\classes_5687954a8796ff560442fc0ecd22a646c39b0edc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\siddhanth\.android\build-cache\e72cb2f192617e584b20569c0337a57b482d135f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="E:\FIFA Manager\TrackMyLoacation\app\build\intermediates\pre-dexed\debug\classes_474839ae27d047f07b4be438bd82fa6213cb3738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\siddhanth\.android\build-cache\2c823d921f66fbe3307a6a565f51fb65b1679a9f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="E:\FIFA Manager\TrackMyLoacation\app\build\intermediates\pre-dexed\debug\classes_7bbb0cafada1b2af0152f4f3c7ab76fa438f33a5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FIFA Manager\TrackMyLoacation\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="990d16f9caa133030d035a28ef467595a6d0c6b8">
+        <dex dex="E:\FIFA Manager\TrackMyLoacation\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_08da1b5b18fe79e8f64ca1a8228a3ae1714c430c\classes.dex" />
+    </item>
+
+</items>
